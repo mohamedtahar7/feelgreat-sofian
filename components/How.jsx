@@ -35,8 +35,8 @@ const How = () => {
           <h3 className="font-bold text-md mb-4">Unimate</h3>
           <p className="text-lg">
             Unimate is a concentrated Yerba Mate Extract. With the whole system
-            it makes it simple to use, you feel great. It doesn't break your
-            fast, it's just a tea extract and people report they feel much
+            it makes it simple to use, you feel great. It doesn&#39;t break your
+            fast, it&#39;s just a tea extract and people report they feel much
             better on Unimate than other energy drinks and coffee.
           </p>
         </div>
